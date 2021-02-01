@@ -1,4 +1,4 @@
-# Screen shots and description in wiki tab
+# Screenshots and description in wiki tab
 
 https://github.com/KabanEOS/WOSPCounter/wiki
  
